@@ -2,6 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="39980125-4a88-431f-968a-0e54b1faa757" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/target/CICD-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Deneme.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,7 +61,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1585206539319</updated>
-      <workItem from="1585206545522" duration="1645000" />
+      <workItem from="1585206545522" duration="1888000" />
     </task>
     <task id="LOCAL-00001" summary="ignore">
       <created>1585213173561</created>
@@ -64,7 +70,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585213173561</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="ignore">
+      <created>1585213430870</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1585213430870</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -79,13 +92,29 @@
       <screen x="0" y="23" width="1440" height="822" />
     </state>
     <state x="184" y="96" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.822@0.23.1440.822" timestamp="1585212914893" />
-    <state x="314" y="36" key="CommitChangelistDialog2" timestamp="1585213173401">
+    <state x="314" y="36" key="CommitChangelistDialog2" timestamp="1585213430748">
       <screen x="0" y="23" width="1440" height="822" />
     </state>
-    <state x="314" y="36" key="CommitChangelistDialog2/0.23.1440.822@0.23.1440.822" timestamp="1585213173401" />
-    <state x="320" y="174" key="Vcs.Push.Dialog.v2" timestamp="1585213188695">
+    <state x="314" y="36" key="CommitChangelistDialog2/0.23.1440.822@0.23.1440.822" timestamp="1585213430748" />
+    <state width="1398" height="212" key="GridCell.Tab.0.bottom" timestamp="1585213638364">
       <screen x="0" y="23" width="1440" height="822" />
     </state>
-    <state x="320" y="174" key="Vcs.Push.Dialog.v2/0.23.1440.822@0.23.1440.822" timestamp="1585213188695" />
+    <state width="1398" height="212" key="GridCell.Tab.0.bottom/0.23.1440.822@0.23.1440.822" timestamp="1585213638364" />
+    <state width="1398" height="212" key="GridCell.Tab.0.center" timestamp="1585213638363">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state width="1398" height="212" key="GridCell.Tab.0.center/0.23.1440.822@0.23.1440.822" timestamp="1585213638363" />
+    <state width="1398" height="212" key="GridCell.Tab.0.left" timestamp="1585213638363">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state width="1398" height="212" key="GridCell.Tab.0.left/0.23.1440.822@0.23.1440.822" timestamp="1585213638363" />
+    <state width="1398" height="212" key="GridCell.Tab.0.right" timestamp="1585213638364">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state width="1398" height="212" key="GridCell.Tab.0.right/0.23.1440.822@0.23.1440.822" timestamp="1585213638364" />
+    <state x="320" y="174" key="Vcs.Push.Dialog.v2" timestamp="1585213453945">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="320" y="174" key="Vcs.Push.Dialog.v2/0.23.1440.822@0.23.1440.822" timestamp="1585213453945" />
   </component>
 </project>

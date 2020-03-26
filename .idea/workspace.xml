@@ -9,6 +9,7 @@
       <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Deneme.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Deneme.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +62,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1585206539319</updated>
-      <workItem from="1585206545522" duration="1888000" />
+      <workItem from="1585206545522" duration="3098000" />
     </task>
     <task id="LOCAL-00001" summary="ignore">
       <created>1585213173561</created>
@@ -77,7 +78,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585213430870</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="ignore">
+      <created>1585213683110</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1585213683110</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -92,10 +100,10 @@
       <screen x="0" y="23" width="1440" height="822" />
     </state>
     <state x="184" y="96" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.822@0.23.1440.822" timestamp="1585212914893" />
-    <state x="314" y="36" key="CommitChangelistDialog2" timestamp="1585213430748">
+    <state x="314" y="36" key="CommitChangelistDialog2" timestamp="1585213682974">
       <screen x="0" y="23" width="1440" height="822" />
     </state>
-    <state x="314" y="36" key="CommitChangelistDialog2/0.23.1440.822@0.23.1440.822" timestamp="1585213430748" />
+    <state x="314" y="36" key="CommitChangelistDialog2/0.23.1440.822@0.23.1440.822" timestamp="1585213682974" />
     <state width="1398" height="212" key="GridCell.Tab.0.bottom" timestamp="1585213638364">
       <screen x="0" y="23" width="1440" height="822" />
     </state>
@@ -112,9 +120,9 @@
       <screen x="0" y="23" width="1440" height="822" />
     </state>
     <state width="1398" height="212" key="GridCell.Tab.0.right/0.23.1440.822@0.23.1440.822" timestamp="1585213638364" />
-    <state x="320" y="174" key="Vcs.Push.Dialog.v2" timestamp="1585213453945">
+    <state x="320" y="174" key="Vcs.Push.Dialog.v2" timestamp="1585227100203">
       <screen x="0" y="23" width="1440" height="822" />
     </state>
-    <state x="320" y="174" key="Vcs.Push.Dialog.v2/0.23.1440.822@0.23.1440.822" timestamp="1585213453945" />
+    <state x="320" y="174" key="Vcs.Push.Dialog.v2/0.23.1440.822@0.23.1440.822" timestamp="1585227100203" />
   </component>
 </project>

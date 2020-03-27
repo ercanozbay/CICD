@@ -1,5 +1,5 @@
 public class Deneme {
     public static void main(String[] args) {
-        System.out.println("deneme sistemi...");
+        System.out.println("deneme sistemi2...");
     }
 }
